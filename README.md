@@ -1,2 +1,2 @@
 # Screen_Time_Calculation
-Calculate the Screen Time of Actors in any Video with Python codes using different pretained models.
+Calculating the screen time of actors in a video with Python code using different pre-trained models(VGG16, InceptionV3).
